@@ -18,7 +18,7 @@
 #include "w5500.h"
 
 #ifndef SS_PIN_DEFAULT
-#define SS_PIN_DEFAULT  2
+#define SS_PIN_DEFAULT  15
 #endif
 
 // W5500 controller instance
